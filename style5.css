@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}#cabeça{
+    position: absolute;
+width: 100%;
+height: 199px;
+left: 0;
+
+background: #FF0A27;
+}#página-principal{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-size: 40px;
+    color: black
+    ;
+    
+
+} a{
+    text-decoration: none;
+} a :hover{
+    text-decoration: underline;
+}#título{
+    position: absolute;
+width: 349px;
+height: 83px;
+left: 1000px;
+top: 60px;
+
+font-size: 60px;
+line-height: 75px;
+color: white;
+}#turma{
+    position: absolute;
+width: 269px;
+height: 38px;
+left: 1550px;
+top: 60px;
+font-size: 60px;
+color: white;
+} #corpo{
+    position: absolute;
+    background-image: linear-gradient(#FA0101, #FFFFFF, #00A3FF);
+    width: 100%;
+    height: 1500px;
+    top: 200px;
+}#texto1{
+    font-size: 60px;
+    width: 1800px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+
+}#botão1{
+    position: absolute;
+    top: 500px;
+    width: 400px;
+    height: 200px;
+    left: 200px;
+    background-color: #ff2d2d;
+    font-size: 40px;
+}#botão2{
+    position: absolute;
+    top: 500px;
+    width: 400px;
+    height: 200px;
+    left: 800px;
+    background-color: #d3fd16;
+    font-size: 40px;
+
+}#botão3{
+    position: absolute;
+    top: 500px;
+    width: 400px;
+    height: 200px;
+    left: 1400px;
+    background-color: #7eff14;
+    font-size: 40px;
+}#botão4{
+
+    position: absolute;
+    top: 800px;
+    width: 400px;
+    height: 200px;
+    left: 500px;
+    background-color: #036ec5;
+    font-size: 40px;
+
+}#botão5{
+    position: absolute;
+    top: 800px;
+    width: 400px;
+    height: 200px;
+    left: 1100px;
+    background-color: #fa6501;
+    font-size: 40px;
+}#texto2{
+    position: absolute;
+    font-size: 80px;
+    top: 1100px;
+    width: 1500px;
+    left: 350px;
+}#rodapé{
+    position: absolute;
+width: 100%;
+height: 290px;
+left: 0px;
+top: 1700px;
+background: #0EBCF2;
+}#texto3{
+    font-size: 50px;
+    width: 100px;
+    padding-top:100px;
+    padding-left: 150px;
+    position: absolute;
+    
+
+}#assinatura{
+    position: absolute;
+    padding-top: 120px;
+    padding-left: 1000px;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
